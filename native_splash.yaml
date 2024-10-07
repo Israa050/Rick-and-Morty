@@ -3,6 +3,9 @@ flutter_native_splash:
   ios: true
   web: false
 
-  image: "assets/images/backgroundImage.png"
+  #image: assets/images/backgroundImage.png
   color: "#343A40"
  # image: "assets/images/rick_morty.jpg"
+  android_12: 
+  image: assets/images/backgroundImage.png
+   #icon_background_color: "#ffffff"
