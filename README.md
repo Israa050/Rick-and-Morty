@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screen shots
-<img src="assets/screen_shots/screen1.jpg" hight=20% width=20%>
+<img src="assets/screen_shots/screen1.jpg" hight=20% width=20%> <img src="assets/screen_shots/screen2.jpg" hight=20% width=20%>
